@@ -79,8 +79,6 @@ git branch task/0000-change-made
 ​
 `widgetViewMobileVersion.vue` for mobile devices | ``widgetViewDesktopVersion.vue` for mobile devices | `panelMenu.vue` for desktop
 .vue` for desktop
------------- | -------------
-![alt text](src/assets/readme/widgetViewMobileVersion.png "widgetView component mobile") | ![alt text](src/assets/readme/widgetViewDesktopVersion.png "widgetView component desktop")
 ​
 
 ## [Deployment](#deployment)
