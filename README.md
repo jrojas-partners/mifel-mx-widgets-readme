@@ -19,7 +19,7 @@ To start the project in local server, you'll see the following folders and files
 
 ### First steps 👟👟
 
-The application sesson looks for `.local-liquid-variables.js` file in the `src/liquid/` directory then to have to apply the session token in order to start the application.
+The application session looks for `.local-liquid-variables.js` file in the `src/liquid/` directory then to have to apply the session token in order to start the application.
 
 ```
 export default {
