@@ -1,4 +1,4 @@
-# modyo-connect: mifel-mx-widgets-pb-pf-dimo-active-dimo
+# mifel-mx-widgets-pb-pf-dimo-active-dimo
 
 ```
 git clone git@github.com:modyo-connect/mifel-mx-widgets-pb-pf-dimo-active-dimo.git
