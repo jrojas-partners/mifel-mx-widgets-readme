@@ -1,4 +1,4 @@
-# initialize this template
+# mifel-mx-widgets-pb-pf-dimo-active-dimo
 
 to initialize the repo you must run:
 
