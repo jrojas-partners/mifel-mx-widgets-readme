@@ -12,10 +12,10 @@
 - [Diseño](#design)
 - [Acciones de GitHub](#github_actions)
 
-## [⏪ Pasos previos (Modyo Platform)](#previos_steps)
+## [Pasos previos Modyo Platform](#previos_steps)
 En esta sección, describiremos los pasos previos necesarios para configurar el entorno de desarrollo en la plataforma Modyo. Esto incluye la preparación para utilizar la plataforma, uso de herramientas, entornos del lenguaje etc. 
 
-## [🚀 Estructura del proyecto)](#project_structure)
+## [Estructura del proyecto)](#project_structure)
 Aquí proporcionaremos una visión general de la estructura del proyecto de software, incluyendo la organización de archivos y carpetas. 
 
 ```
@@ -27,7 +27,7 @@ Aquí proporcionaremos una visión general de la estructura del proyecto de soft
 └── package.json
 ```
 
-## [🥾 Primeros pasos)](#firs_steps)
+## [Primeros pasos)](#firs_steps)
 En esta sección, se presentarán los primeros pasos esenciales para empezar a trabajar en el proyecto. Esto incluye la clonación del repositorio, la configuración inicial y la preparación del entorno de desarrollo.
 
 ```
