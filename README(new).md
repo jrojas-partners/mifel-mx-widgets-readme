@@ -20,25 +20,25 @@ Aquí proporcionaremos una visión general de la estructura del proyecto de soft
 
 ```
 /
-├── .github/ <- Workflows
-├── .husky/  <- Acciones pre-commit, pre-push
-├── .vscode/ <- Config. workspace
-├── coverage/ <- Tests de cobertura
-├── public/ <- Carpeta publica con indice del root de la app
+├── .github/                          <- Workflows
+├── .husky/                           <- Acciones pre-commit, pre-push
+├── .vscode/                          <- Config. workspace
+├── coverage/                         <- Tests de cobertura
+├── public/                           <- Carpeta publica con indice del root de la app
 ├── src/
-│   └── helpers/ <- Utilidades
+│   └── helpers/                      <- Utilidades
 │   └── liquid/
 │       └── local-liquid-variables.js <- Config. sesión por stage
-│   └── locales/ <- Traducciones o internacionalización 
-│   └── repositories/ <- Capa de repositorio con servicios externos 
-│   └── router/ <- Indice de rutas internas
-│   └── scss/ <- Estilos del tema y globales del widget
-│   └── stores/ <- Gestor de estado por sección
-│   └── views/ <- Vistas de las rutas internas
-│   └── main.js <- Punto central de dependencias 
-│   └── vee-validate-config.js <- Config. de validaciones de formulario
+│   └── locales/                      <- Traducciones o internacionalización 
+│   └── repositories/                 <- Capa de repositorio con servicios externos 
+│   └── router/                       <- Indice de rutas internas
+│   └── scss/                         <- Estilos del tema y globales del widget
+│   └── stores/                       <- Gestor de estado por sección
+│   └── views/                        <- Vistas de las rutas internas
+│   └── main.js                       <- Punto central de dependencias 
+│   └── vee-validate-config.js        <- Config. de validaciones de formulario
 ├── tests/
-└── package.json <- Gestor de dependencias del proyecto
+└── package.json                      <- Gestor de dependencias del proyecto
 ```
 
 ### Primeros pasos
