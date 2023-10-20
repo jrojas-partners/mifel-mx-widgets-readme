@@ -65,7 +65,7 @@ Aquí proporcionaremos una visión general de la estructura del proyecto de soft
 └── package.json                      <- Gestor de dependencias del proyecto
 ```
 
-(*) Carpetas con este apartado pueden incluir o no gestor de rutas.
+(*) Carpetas con este apartado pueden incluir o no gestor de rutas y vistas.
 
 ### Version de Node (Recomendada)
 En esta sección, se presentará la versión altamente recomendada para su uso en el proyecto, desde la instalación de paquetes hasta los casos de uso más habituales de cada comando. Es importante destacar que esta versión se sugiere debido a su amplia compatibilidad con la mayoría de los paquetes. No obstante, es posible optar por la última versión, aunque esto conlleva un cierto riesgo de incompatibilidad con algunas dependencias internas. Por lo tanto, se recomienda utilizar la versión sugerida para garantizar la estabilidad y coherencia del proyecto al igual que manejar el siguiente paquete: [NVM](https://github.com/nvm-sh/nvm#installing-and-updating)
