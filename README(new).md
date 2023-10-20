@@ -65,7 +65,7 @@ Aquí proporcionaremos una visión general de la estructura del proyecto de soft
 └── package.json                      <- Gestor de dependencias del proyecto
 ```
 
-(*) Carpetas con este apartado pueden incluir o no gestor de rutas y vistas.
+(*) Carpetas con este apartado pueden incluir o no gestor de rutas.
 
 ### Version de Node (Recomendada)
 En esta sección, se presentará la versión altamente recomendada para su uso en el proyecto, desde la instalación de paquetes hasta los casos de uso más habituales de cada comando. Es importante destacar que esta versión se sugiere debido a su amplia compatibilidad con la mayoría de los paquetes. No obstante, es posible optar por la última versión, aunque esto conlleva un cierto riesgo de incompatibilidad con algunas dependencias internas. Por lo tanto, se recomienda utilizar la versión sugerida para garantizar la estabilidad y coherencia del proyecto al igual que manejar el siguiente paquete: [NVM](https://github.com/nvm-sh/nvm#installing-and-updating)
@@ -146,16 +146,21 @@ En todo el proyecto es ampliamente utilizando una serie de componentes que sigue
 npm i @modyo-connect/mifel-mx-widgets-commons@[Version actual del paquete]
 ```
 
+### Sobre el widget
+Aquí se escribirá una breve descripción que proporcione una mirada general a lo que el widget se dedica 
+
 ### Consideraciones del widget
 De la presentes consideraciones se deberá tener en cuenta que si el token tiene marcado el siguiente check, deberá tenerse en cuenta en el lanzamiento y configuración:
 
 Eg. Si contiene 
 - ✅ TokenGenerator 
 - ✅ QueryParams
+- ✅ Router
 
 Eg. No contiene 
 - ⬜️ TokenGenerator 
 - ⬜️ QueryParams
+- ⬜️ Router
 
 ## Flujo de servicios
 Describiremos el flujo de servicios dentro del proyecto, destacando cómo se comunican los distintos componentes y cómo se gestionan los datos y las solicitudes, 
