@@ -136,8 +136,13 @@ En todo el proyecto es ampliamente utilizando una serie de componentes que sigue
 npm i @modyo-connect/mifel-mx-widgets-commons@latest
 ```
 
-### Sobre el widget
-Aquí se escribirá una breve descripción que proporcione una mirada general a lo que el widget se dedica 
+### Manejo de errores
+Mostraremos un listado `ejemplo` del manejo de los errores a los que esta suscrito el widget y como este los aborda. 
+
+| ID    | SERVICIO        | CODE  | DESCRIPCIÓN                   | ACCIÓN                       |
+| :---- | :-------------  | :---- | :---------------------------- | :--------------------------- |
+| 25    | valida-ebank    |  2135 | Usuario No Bloqueado (Activo) | Redirige a vista informativa |
+| 25    | valida-tarjeta  |  2106 | Tus datos están incorrectos   | Error Bajo Input             |
 
 ### Consideraciones del widget
 De la presentes consideraciones se deberá tener en cuenta que si el token tiene marcado el siguiente check, deberá tenerse en cuenta en el lanzamiento y configuración:
