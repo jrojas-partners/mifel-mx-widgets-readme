@@ -143,7 +143,7 @@ Aquí se explicará la arquitectura subyacente del widget, detallando los compon
 En todo el proyecto es ampliamente utilizando una serie de componentes que siguen la definición establecida del Design System (DS), un paquete de componentes ampliamente utilizado para armonizar y mantener una misma linea gráfica y funcional en toda la aplicación. 
 
 ```bash
-npm i @modyo-connect/mifel-mx-widgets-commons@[Version actual del paquete]
+npm i @modyo-connect/mifel-mx-widgets-commons@latest
 ```
 
 ### Sobre el widget
