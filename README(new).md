@@ -2,20 +2,10 @@
 <p align="center">
     <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/badges/shields" /></a>
-    <a href="#backers" alt="Backers on Open Collective">
-        <img src="https://img.shields.io/opencollective/backers/shields" /></a>
-    <a href="#sponsors" alt="Sponsors on Open Collective">
-        <img src="https://img.shields.io/opencollective/sponsors/shields" /></a>
     <a href="https://github.com/badges/shields/pulse" alt="Activity">
         <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
     <a href="https://circleci.com/gh/badges/shields/tree/master">
         <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build status"></a>
-    <a href="https://circleci.com/gh/badges/daily-tests">
-        <img src="https://img.shields.io/circleci/project/github/badges/daily-tests?label=service%20tests"
-            alt="service-test status"></a>
-    <a href="https://coveralls.io/github/badges/shields">
-        <img src="https://img.shields.io/coveralls/github/badges/shields"
-            alt="coverage"></a>
     <a href="https://github.com/modyo-connect/mifel-mx-widgets-commons">
         <img src="https://img.shields.io/badge/uptime-100%25-brightgreen"
             alt="github commons"></a>
@@ -65,7 +55,7 @@ Aquí proporcionaremos una visión general de la estructura del proyecto de soft
 └── package.json                      <- Gestor de dependencias del proyecto
 ```
 
-(*) Carpetas con este apartado pueden incluir o no gestor de rutas.
+(*) Carpetas con este apartado pueden incluir o no gestor de rutas, views.
 
 ### Version de Node (Recomendada)
 En esta sección, se presentará la versión altamente recomendada para su uso en el proyecto, desde la instalación de paquetes hasta los casos de uso más habituales de cada comando. Es importante destacar que esta versión se sugiere debido a su amplia compatibilidad con la mayoría de los paquetes. No obstante, es posible optar por la última versión, aunque esto conlleva un cierto riesgo de incompatibilidad con algunas dependencias internas. Por lo tanto, se recomienda utilizar la versión sugerida para garantizar la estabilidad y coherencia del proyecto al igual que manejar el siguiente paquete: [NVM](https://github.com/nvm-sh/nvm#installing-and-updating)
