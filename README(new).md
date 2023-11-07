@@ -1,15 +1,4 @@
 # [DIMO] Activación [PF]
-<p align="center">
-    <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/github/contributors/badges/shields" /></a>
-    <a href="https://github.com/badges/shields/pulse" alt="Activity">
-        <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
-    <a href="https://circleci.com/gh/badges/shields/tree/master">
-        <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build status"></a>
-    <a href="https://github.com/modyo-connect/mifel-mx-widgets-commons">
-        <img src="https://img.shields.io/badge/uptime-100%25-brightgreen"
-            alt="github commons"></a>
-</p>
 
 ## Tabla de contenido
 
@@ -167,4 +156,4 @@ Aquí se visualizaran aspectos relacionados con el diseño de la interfaz del wi
 
 
 ## Acciones de GitHub
-Aquí se enumerarán las acciones y procesos específicos relacionados con GitHub, como la gestión de ramas, las solicitudes de extracción y las prácticas recomendadas para el trabajo en equipo. Workflows para que los cambios realizados en el widget puedan subirse correctamente.
+Aquí se enumerarán las acciones y procesos específicos relacionados con GitHub, como la gestión de ramas, las solicitudes de extracción y las prácticas recomendadas para el trabajo en equipo. Workflows para que los cambios realizados en el widget puedan subirse correctamente. [Ver Diagrama de flujo](https://github.com/modyo-connect/mifel-mx-widgets-commons/blob/develop/GITFLOW.md)
